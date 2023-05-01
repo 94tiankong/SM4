@@ -1,6 +1,5 @@
 #第二次作业
 
-叶明聪 1901210694 第二次作业  
 
 1.SM4加密可逆性证明： [SM4加密可逆证明.pdf](https://github.com/94tiankong/SM4/blob/master/SM4加密可逆证明.pdf)
 
